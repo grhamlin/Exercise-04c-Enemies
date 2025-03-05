@@ -1,6 +1,7 @@
 # Exercise-04c-Enemies
 
 ## Implementation
+Added 3 enemies, 1 that moves forwards constantly, one that jumps, and one that moves forward when the player is near it.
 
 ## References
 
@@ -12,6 +13,7 @@ Pixel Platformer tiles provided by Kenney.nl
 https://kenney.nl/assets/pixel-platformer
 
 ## Future Development
+Exercise 4D
 
 ## Created by
-Nathan Mishler
+Griffith Hamlin
